@@ -19,3 +19,22 @@ and a filterable catalog of 15 premium sets.
 - **Advanced Technic** — Lamborghini Sián, Bugatti Chiron, Porsche 911 GT3 RS
 - **Creator Classics** — Fiat 500, VW Camper Van, Ford Mustang GT
 
+## 🛠️ Built With
+- [React 19](https://react.dev/) — UI framework
+- [TypeScript](https://www.typescriptlang.org/) — type safety
+- [Tailwind CSS](https://tailwindcss.com/) — styling
+- [Framer Motion](https://www.framer.com/motion/) — animations
+- [Vite](https://vitejs.dev/) — build tool
+- [shadcn/ui](https://ui.shadcn.com/) — UI components
+
+## 🚀 How to Run Locally
+Make sure you have [Node.js](https://nodejs.org/) installed, then:
+
+```bash
+npm install
+npm run dev
+```
+Then open your browser at `http://localhost:5173`
+
+## 🌐 Live Demo
+[View Live Site](https://doozylego.netlify.app)
